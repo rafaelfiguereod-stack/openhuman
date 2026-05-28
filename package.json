@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "husky": "^9.1.7",
-    "ws": "^8.20.0"
+    "ws": "^8.20.1"
   },
   "dependencies": {
     "@tauri-apps/api": "2.10.1"
